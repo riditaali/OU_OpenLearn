@@ -1,2 +1,2 @@
-# OU_OpenLearn_SimpleCoding
+# OU_OpenLearn
 Simple coding
